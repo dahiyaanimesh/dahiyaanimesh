@@ -9,8 +9,7 @@
 > **Passionate about transforming data into insights and building intelligent automation solutions**
 
 - 🔭 Currently pursuing **Master's in Data Science** at RMIT University
-- 💼 **3+ years** of experience as Software Engineer at Cognizant
-- 💰 Delivered **$300K+ annual cost savings** through automation solutions
+- 💼 **3+ years** of experience as Software Engineer- 💰 
 - 🤖 Specialized in **UiPath, Machine Learning, and Full-Stack Development**
 - 📈 Improved system response times by **20%** through optimization
 - 🌱 Always learning and exploring new technologies in **AI/ML** and **Cloud Computing**
