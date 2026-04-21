@@ -10,18 +10,19 @@ Data Science Engineer based in Melbourne. I build ML systems, automation pipelin
 
 ## About
 
-- 3 years at Cognizant
-- Analysed **2.3M+ customer reviews** with NLP pipelines at scale
+- **Automation Engineer at Cognizant** (3 years) — built RPA and data pipelines for enterprise clients
+- Built NLP pipelines that analysed **2.3M+ customer reviews** in production
 - M.S. Data Science, RMIT (2025) · B.Tech Computer Science, SRM (2020)
+- **Currently exploring:** LLM evaluation, retrieval systems, and MLOps
 - Open to **data science / ML engineering roles** in Melbourne
 
 ## Selected Projects
 
 | Project | Description |
 |---|---|
-| [Pitwall](https://pitwall.dahiyaanimesh.co.in) | F1 race-outcome prediction using telemetry and historical data |
-| HomeHop | Melbourne property price prediction with ML |
-| Employee Sentiment at Scale | NLP sentiment analysis across 2.3M+ reviews |
+| [**Pitwall**](https://pitwall.dahiyaanimesh.co.in) | F1 race-outcome predictor using telemetry + historical race data; gradient-boosted models served via FastAPI |
+| [**HomeHop**](https://github.com/dahiyaanimesh/homehop) | Melbourne property price predictor trained on 50k+ listings; Next.js frontend deployed on Vercel |
+| **Employee Sentiment at Scale** | NLP sentiment pipeline processing 2.3M+ reviews (internal project at Cognizant) |
 
 ## Tech Stack
 
@@ -34,5 +35,4 @@ Data Science Engineer based in Melbourne. I build ML systems, automation pipelin
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dahiyaanimesh&show_icons=true&hide_border=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dahiyaanimesh&layout=compact&hide_border=true)
